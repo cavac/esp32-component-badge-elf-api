@@ -4,6 +4,7 @@ idf_component_register(
 		"src/device.c"
 		"src/display.c"
 		"src/err.c"
+		"src/file.c"
 		"src/http.c"
 		"src/input.c"
 		"src/led.c"
